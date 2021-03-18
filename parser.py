@@ -5,7 +5,7 @@
 # conv = pd.read_csv (r'path to src csv file')
 # conv.to_json (r'path for json file')
 
-import tkinter as tk
+import tkinter as tk        #quick UI
 from tkinter import filedialog
 from tkinter import messagebox
 import pandas as pd
